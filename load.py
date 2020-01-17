@@ -81,7 +81,7 @@ def button_callback():
 
     slef = {"header": {"appName": this.NAME,
                        "appVersion": this.VERSION,
-                       "appURL": "https://github.com"},
+                       "appURL": "https://github.com/Thurion/SLEF-export"},
             "data": d}
 
     this.frame.clipboard_clear()
