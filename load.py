@@ -37,7 +37,6 @@ this.button = None
 this.frame = None  # type: tk.Frame
 
 
-this.EVENTS = {"Loadout", "EngineerLegacyConvert", "EngineerProgress", "MassModuleStore", "ModuleSell", "ModuleStore", "ModuleSwap", "Outfitting", "ModuleInfo"}
 this.VERSION = "1.0"
 this.NAME = "SLEF Export"
 
