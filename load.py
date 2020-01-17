@@ -46,7 +46,7 @@ def plugin_start(plugin_dir):
 
 
 def plugin_start3(plugin_dir):
-    plugin_start(plugin_dir)
+    return plugin_start(plugin_dir)
 
 
 def plugin_stop():
