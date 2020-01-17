@@ -7,7 +7,7 @@ This plugin allows to copy the loadout of the current ship into the user's clipb
 
 1. On EDMC's Plugins settings tab press the _Open_ button. This reveals the _plugins_ folder where EDMC looks for plugins.
 2. Download the [latest release](https://github.com/Thurion/SLEF-export/releases).
-3. Open the _.zip_ archive that you downloaded and move the _DistanceCalc_ folder contained inside into the _plugins_ folder.
+3. Open the _.zip_ archive that you downloaded and move the _SLEF-export_ folder contained inside into the _plugins_ folder.
 
 You will need to re-start EDMC for it to notice the new plugin.
 
